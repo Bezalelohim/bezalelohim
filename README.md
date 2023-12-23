@@ -7,8 +7,12 @@
 
 - 🌱 I’m currently learning **Integration of AI in ROS & Rustlang**
 
-- 💬 Ask me about **ROS,Android,Object Detection CNNs**
-
+- 💬 Ask me about:
+- **ROS**
+- **Android Development**
+- **Computer Vision and Object Detection CNNs**
+- **Embedded Systems Programming (ESP S,ESP C Series Boards / Arduino Boards)** 
+   
 - 📫 How to reach me (Discord Name) **bezal_el**
 
 
