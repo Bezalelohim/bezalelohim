@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hey 👋, This is Immanuel Jiji</h1>
 <h3 align="center">Trying to build the best bots possible</h3>
  <img align ="center" alt ="Robotics" width="600" src="https://global.discourse-cdn.com/business7/uploads/ros/optimized/2X/7/74f75ae4f201eafb69de183f1b2b47d263d8a2b1_2_480x375.gif">
