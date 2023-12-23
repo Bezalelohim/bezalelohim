@@ -3,9 +3,9 @@
 <h3 align="center">Trying to build the best bots possible</h3>
  <img align ="center" alt ="Robotics" width="600" src="https://global.discourse-cdn.com/business7/uploads/ros/optimized/2X/7/74f75ae4f201eafb69de183f1b2b47d263d8a2b1_2_480x375.gif">
 
-- 🔭 I’m currently working on **PracticalDynamics Drivers**
+- 🔭 Current Projects **PracticalDynamics Drivers**
 
-- 🌱 I’m currently learning **Integration of AI in ROS & Rust**
+- 🌱 I’m currently learning **Integration of AI in ROS & Rustlang**
 
 - 💬 Ask me about **ROS,Android,Object Detection CNNs**
 
