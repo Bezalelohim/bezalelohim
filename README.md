@@ -5,7 +5,7 @@
 
 - 🔭 Current Projects **Writing device drivers for the PracticalDynamics project**
 
-- 🌱 I’m currently learning **Integration of AI in ROS & Rustlang**
+- 🌱 I’m currently learning **Integration of AI with ROS and Embedded Devices **
 
 - 💬 Ask me about:
 - **ROS**
