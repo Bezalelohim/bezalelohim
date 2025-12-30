@@ -1,5 +1,3 @@
-![MasterHead](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/chatgpt_robotics_header-1024x310.jpg)
-
 <h1 align="center">Hey 👋, I'm Immanuel Jiji</h1>
 <h3 align="center">Trying to build the best bots possible</h3>
 
