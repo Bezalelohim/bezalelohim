@@ -7,14 +7,8 @@
 
 ---
 
-### 🚀 Current Projects:
-- **Writing device drivers for the Gas Sensor App**
-- Developing an **Android BLE App** for seamless IoT communication with ESP32 and Arduino boards.
+###  Always learning about:
 
----
-
-### 🌱 I’m currently learning:
-- Integration of **AI with ROS** and **Embedded Devices**
 - **Robust Control Systems** for industrial-grade robots
 - Creating autonomous robots with **Sense-Perceive-Plan-Act (SPPA)** capabilities.
 
@@ -25,7 +19,7 @@
 - **Android Development**
 - **Computer Vision and Object Detection CNNs**
 - **Embedded Systems Programming**  
-  *(ESP S, ESP C Series Boards / Arduino Boards)*
+  
 
 ---
 
